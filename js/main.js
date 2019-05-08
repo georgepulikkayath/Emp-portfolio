@@ -8,7 +8,7 @@ $(document).ready(function () {
 
     })
 })
-$("#bd").on("click",".btn",function () {
+$(".btn-lg").on("click",".btn",function () {
     debugger
     window.location ="https://github.com/georgepulikkayath";
 
