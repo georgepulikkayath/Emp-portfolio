@@ -48,8 +48,8 @@
     margin: 2em;
    }
    .about img{
-    height: 100%;
-       width: 100%;
+    height: 60%;
+       width: 80%;
        border-radius: 50%
    }
    .about span{
@@ -113,5 +113,10 @@
     height: auto;
     max-height: 200px;
     overflow-x: hidden;
+    
 }
-  
+  .dropdown-toggle{
+      color:white;
+  }
+
+ 
